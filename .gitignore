@@ -1,0 +1,32 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Imported textures and samples
+.import/
+
+# Mono-specific ignores (if using C#)
+.mono/
+data_*/
+mono_crash.*.json
+
+# Builds/exports
+export/
+builds/
+*.exe
+*.x86_64
+*.pck
+*.zip
+
+# OS-generated
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
