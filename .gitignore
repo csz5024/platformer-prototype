@@ -30,3 +30,5 @@ Desktop.ini
 *.swp
 *.swo
 *~
+
+.env
